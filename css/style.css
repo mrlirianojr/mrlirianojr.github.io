@@ -1,0 +1,39 @@
+body { 
+	padding-top: 50px;
+	}
+html, body {
+	height: 100vh;
+}
+header {
+	background: url(../img/pexels-photo-574070.jpeg) no-repeat bottom center;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	height: 100vh;
+  	color: #fff;
+   text-shadow: 0px 3px 0px #b2a98f,
+         0px 14px 10px rgba(0,0,0,0.15),
+         0px 24px 2px rgba(0,0,0,0.1),
+         0px 34px 30px rgba(0,0,0,0.1);
+}
+#about {
+	background: #000 no-repeat bottom center;
+  	height: 100vh;
+}
+#work {
+	background: #fff no-repeat bottom center;
+  	height: 100vh;
+}
+#contact {
+	background: #fff no-repeat bottom center;
+  	height: 100vh;
+}
+h1 {
+	font-size: 10em;
+	text-transform: uppercase;
+	margin-top: 25%;
+}
+header p {
+	font-size: 4em;
+}
