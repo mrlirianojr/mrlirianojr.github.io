@@ -1,0 +1,45 @@
+body {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	height: 100vh;
+	padding-top: 70px;
+}
+
+#main {
+	min-height: 100vh;
+	padding-top: 70px;
+}
+#work {
+	padding-top: 70px;
+	min-height: 100vh;
+}
+#profilePic {
+	max-width: 450px;
+}
+
+p {
+	font-size: 1.2em;
+}
+
+.skills {
+	margin-top: 20px;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #000;
+}
+
+.navbar-default .navbar-brand {
+	color: #000;
+}
+
+.h3, h3 {
+	font-size: 2em;
+	font-weight: 700;
+	font-family: 'Playfair Display', serif;
+}
+
+.h6, h6 {
+	font-size: 1.1em;
+	font-family: 'Playfair Display', serif;
+}
