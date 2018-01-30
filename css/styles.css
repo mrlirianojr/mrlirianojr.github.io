@@ -43,3 +43,6 @@ p {
 	font-size: 1.1em;
 	font-family: 'Playfair Display', serif;
 }
+.navbar-default .navbar-nav>li>a:hover {
+	color: #c3c3c3;
+}
